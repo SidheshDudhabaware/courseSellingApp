@@ -1,1 +1,1 @@
-export const BACKEND_URL="https://coursesellingapp-2-wb76.onrender.com"
+export const BACKEND_URL="https://coursesellingapp-2-wb76.onrender.com/api/v1"
